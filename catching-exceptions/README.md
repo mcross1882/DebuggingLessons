@@ -1,8 +1,7 @@
 ### Compiling
 
 ```
-$ javac -g ObservingPatternsDemo.java
-$ javac -g hotswap/ObservingPatternsDemo.java
+$ javac -g DebugFileMissingDemo.java
 ```
 
 ### Executing
